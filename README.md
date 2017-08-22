@@ -14,12 +14,12 @@
 
    make
    
-#使用说明
+# 使用说明
      执行程序会主动提示
      
      参考：cancelDdl input.sql output.sql
      
-#License
+# License
 
 this is BSD-licensed. We also provide an additional patent grant.
 
