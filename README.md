@@ -10,6 +10,10 @@
       wupf     2016-10-15 CHECKLIST
       wupf     2017-08-22 Upload to Github
 
+#Installation
+
+   make
+   
 #使用说明
      执行程序会主动提示
      
