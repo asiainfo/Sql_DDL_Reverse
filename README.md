@@ -18,3 +18,9 @@
      执行程序会主动提示
      
      参考：cancelDdl input.sql output.sql
+     
+#License
+
+this is BSD-licensed. We also provide an additional patent grant.
+
+Note: copyright by asiainfo 亚信 (www.asiainfo.com.cn)     
